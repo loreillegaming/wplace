@@ -1,0 +1,1 @@
+Le fichier "france.png" est un aperçu compressé de la France sur wplace.live pour avoir une version moins compressée reconstituez les 16 fichiers qui se trouvent dans le répertoire "image_a_assembler_4x4". Vous êtes libre d’utiliser, modifier et partager cette œuvre, à condition de conserver la même licence GNU et de mentionner l’auteur.
